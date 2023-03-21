@@ -16,3 +16,5 @@ jupyterhub-nativeauthenticator
 ipython-sql
 sqlalchemy
 psycopg2
+nbconvert
+pyppeteer

@@ -12,3 +12,7 @@ pandas
 #scikit-learn
 #scipy
 seaborn
+jupyterhub-nativeauthenticator
+ipython-sql
+sqlalchemy
+psycopg2

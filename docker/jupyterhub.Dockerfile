@@ -1,4 +1,4 @@
-FROM jupyterhub/jupyterhub:3.1.1
+FROM jupyterhub/jupyterhub
 
 RUN apt-get update
 RUN apt-get -y install gcc
